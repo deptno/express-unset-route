@@ -1,0 +1,28 @@
+{
+  "name": "express-unset-route",
+  "version": "0.1.1",
+  "description": "Dynamic unset route from express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deptno/express-unset-route.git"
+  },
+  "keywords": [
+    "express",
+    "unset",
+    "remove",
+    "route"
+  ],
+  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deptno/express-unset-route/issues"
+  },
+  "homepage": "https://github.com/deptno/express-unset-route#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.0"
+  }
+}
